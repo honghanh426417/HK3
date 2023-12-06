@@ -12,7 +12,6 @@ app.get ('/',(req, res)=> res.render('home'))
 
 const fortunes =[
     "Could you, could you please, Please don't change?",
-    "Please, please don't change",
     "'Cause I love you, yeah, I love you...Oh, I love you, love the way you are. Please, please don't change",
 ]
 
