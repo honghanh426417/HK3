@@ -1,0 +1,155 @@
+body {
+     font-family: 'Arial', sans-serif;
+     background-color: #fcfcfc; 
+     color: #333;
+     padding: 0;
+     margin: 0;
+ }
+ 
+ .header {
+     background: linear-gradient(to bottom, #3a91fd, #FFFFFF);
+     text-align: center;
+     color: #333;
+
+ }
+ 
+ .header h1 {
+     margin: 0;
+ }
+ /* .main{
+     background-image: url('/img/background.jpeg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 400px;
+    background-size: contain;
+ } */
+ nav {
+     background-color: #333; 
+     padding: 10px;
+     text-align: center;
+ }
+ 
+ nav a {
+     color: #fff; 
+     text-decoration: none;
+     margin: 0 15px;
+     font-weight: bold;
+ }
+ 
+ nav a:hover {
+     color: #f3972d; 
+ }
+ .product {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     gap: 30px;
+     margin: 50px 100px;
+     
+ }
+ 
+ .home {
+     background-color: #fff;
+     padding: 5px 15px;
+     border: 1px solid #ddd;
+     border-radius: 5px;
+     overflow: hidden;
+ }
+ 
+ .home img {
+     width: 100%;
+     height: 300px;
+     display: block;
+     padding-bottom: 10px;
+ }
+ .name{
+     font-style:inherit;
+     text-decoration: none;
+     color:#333;
+     font-size: 17px;
+     font-weight: 400;
+ }
+ .name:hover{
+     font-style: oblique;
+     color: #f3972d;
+ }
+ .price{
+     font-weight: 600;
+ }
+.footer {
+     background-color: #333;
+     color: #fff;
+     display: flex;
+    flex-direction: column;
+    align-items: center; 
+   }
+   
+   .footer-content {
+     margin: 0 150px;
+     display: grid;
+     grid-template-columns: repeat(2, 1fr);
+     gap: 20px; 
+   }
+   
+   .footer-section {
+     max-width: 100%; 
+}
+   
+   .footer h3 {
+     color: #f3972d;
+   }
+   
+   .footer p {
+     font-size: 14px;
+     line-height: 1.6;
+   }
+   
+   .footer-section ul {
+     list-style: none;
+     padding: 0;
+   }
+   
+   .footer-section a {
+     color: #fff;
+     text-decoration: none;
+   }
+   
+   .footer-section a:hover {
+     color: #f3972d;
+   }
+   
+   .footer-bottom {
+     background-color: #222;
+     text-align: center;
+     padding: 10px 0;
+     width: 100%;
+   }
+   
+   .footer-bottom p {
+     margin: 0;
+   }
+   .about {
+     padding: 50px 0;
+ }
+ 
+ .about h1 {
+     font-size: 36px;
+     color: #333;
+     text-align: center;
+     margin-bottom: 30px;
+ }
+ 
+ .about-content {
+     max-width: 800px;
+     margin: 0 auto;
+     text-align: justify;
+ }
+ 
+ .about-content p {
+     font-size: 16px;
+     line-height: 1.6;
+     color: #555;
+     margin-bottom: 20px;
+ }
+ 
+   
