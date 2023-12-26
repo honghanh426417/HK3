@@ -1,0 +1,943 @@
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/appsettings.Development.json
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/appsettings.json
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/demonetcore.staticwebassets.runtime.json
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/demonetcore
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/demonetcore.deps.json
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/demonetcore.runtimeconfig.json
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/demonetcore.dll
+/Users/thidk/Projects/demonetcore/demonetcore/bin/Debug/net7.0/demonetcore.pdb
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.csproj.AssemblyReference.cache
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfoInputs.cache
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfo.cs
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CoreCompileInputs.cache
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.MvcApplicationPartsAssemblyInfo.cache
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cache
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cs
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.demonetcore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.build.demonetcore.props
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.demonetcore.props
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.demonetcore.props
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets.build.json
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/staticwebassets.development.json
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/scopedcss/bundle/demonetcore.styles.css
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/scopedcss/projectbundle/demonetcore.bundle.scp.css
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.dll
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/refint/demonetcore.dll
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.pdb
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/demonetcore.genruntimeconfig.cache
+/Users/thidk/Projects/demonetcore/demonetcore/obj/Debug/net7.0/ref/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/appsettings.Development.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/appsettings.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/demonetcore.staticwebassets.runtime.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/demonetcore
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/demonetcore.deps.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/demonetcore.runtimeconfig.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/demonetcore.pdb
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.csproj.AssemblyReference.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfoInputs.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfo.cs
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CoreCompileInputs.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.MvcApplicationPartsAssemblyInfo.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cs
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.demonetcore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.build.demonetcore.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.demonetcore.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.demonetcore.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets.build.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/staticwebassets.development.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/scopedcss/bundle/demonetcore.styles.css
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/scopedcss/projectbundle/demonetcore.bundle.scp.css
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/refint/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.pdb
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.genruntimeconfig.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/ref/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Azure.Core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Azure.Identity.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Humanizer.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/MessagePack.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 01/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CopyComplete
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/appsettings.Development.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/appsettings.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.staticwebassets.runtime.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.deps.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.runtimeconfig.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.pdb
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Azure.Core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Azure.Identity.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Humanizer.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/MessagePack.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.csproj.AssemblyReference.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfoInputs.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfo.cs
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CoreCompileInputs.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.MvcApplicationPartsAssemblyInfo.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cs
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.demonetcore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.build.demonetcore.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.demonetcore.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.demonetcore.props
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets.build.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets.development.json
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/scopedcss/bundle/demonetcore.styles.css
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/scopedcss/projectbundle/demonetcore.bundle.scp.css
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CopyComplete
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/refint/demonetcore.dll
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.pdb
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.genruntimeconfig.cache
+/Users/thidk/Documents/Aptech/3. SEM 03/2. WAD - Web Application Development/demonew/demonetcore 4/demonetcore/obj/Debug/net7.0/ref/demonetcore.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/appsettings.Development.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/appsettings.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.staticwebassets.runtime.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.deps.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.runtimeconfig.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/demonetcore.pdb
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Azure.Core.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Azure.Identity.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Humanizer.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/MessagePack.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/MessagePack.Annotations.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Common.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.CodeDom.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.csproj.AssemblyReference.cache
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfoInputs.cache
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.AssemblyInfo.cs
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.MvcApplicationPartsAssemblyInfo.cache
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cache
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.RazorAssemblyInfo.cs
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.demonetcore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.build.demonetcore.props
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.demonetcore.props
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.demonetcore.props
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets.build.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/staticwebassets.development.json
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/scopedcss/bundle/demonetcore.styles.css
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/scopedcss/projectbundle/demonetcore.bundle.scp.css
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.csproj.CopyComplete
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/refint/demonetcore.dll
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.pdb
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/demonetcore.genruntimeconfig.cache
+/Users/apple/Downloads/demonetcore 4/demonetcore/obj/Debug/net7.0/ref/demonetcore.dll

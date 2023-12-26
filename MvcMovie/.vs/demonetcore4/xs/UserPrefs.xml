@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{6617BCD6-030C-4EA4-B31D-3C19001BB999}|https">
+  <MonoDevelop.Ide.ItemProperties.demonetcore PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demonetcore/Models/Movie.cs">
+    <Files>
+      <File FileName="demonetcore/Controllers/MovieController.cs" Line="30" Column="36" />
+      <File FileName="demonetcore/Views/_ViewStart.cshtml" />
+      <File FileName="demonetcore/Views/Shared/_Layout.cshtml" Line="38" Column="8" />
+      <File FileName="demonetcore/Models/Movie.cs" Line="1" Column="1" />
+      <File FileName="demonetcore/Program.cs" Line="4" Column="2" />
+      <File FileName="demonetcore/appsettings.json" Line="1" Column="1" />
+      <File FileName="demonetcore/Data/MovieDataContext.cs" Line="15" Column="46" />
+      <File FileName="demonetcore/Views/Movie/Edit.cshtml" />
+      <File FileName="demonetcore/Views/Movie/Details.cshtml" Line="1" Column="1" />
+      <File FileName="demonetcore/Views/Movie/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="demonetcore/Views/Movie/Index.cshtml" />
+      <File FileName="demonetcore/Views/Movie/Create.cshtml" Line="1" Column="1" />
+      <File FileName="demonetcore/Migrations/MovieDataContextModelSnapshot.cs" />
+      <File FileName="demonetcore/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="demonetcore/Controllers/HelloWorldController.cs" Line="15" Column="29" />
+      <File FileName="demonetcore/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="demonetcore/Views/HelloWorld/Index.cshtml" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demonetcore4" expanded="True">
+            <Node name="demonetcore" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Movie" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

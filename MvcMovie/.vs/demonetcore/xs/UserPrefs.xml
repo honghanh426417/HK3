@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{6617BCD6-030C-4EA4-B31D-3C19001BB999}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.demonetcore PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demonetcore/Data/MovieDataContext.cs">
+    <Files>
+      <File FileName="demonetcore/Controllers/HomeController.cs" />
+      <File FileName="demonetcore/Program.cs" />
+      <File FileName="demonetcore/Controllers/HelloWorldController.cs" />
+      <File FileName="demonetcore/Views/HelloWorld/Index.cshtml" />
+      <File FileName="demonetcore/Views/HelloWorld/Welcome.cshtml" />
+      <File FileName="demonetcore/Views/_ViewStart.cshtml" />
+      <File FileName="demonetcore/Views/Shared/_Layout.cshtml" />
+      <File FileName="demonetcore/Views/Home/Index.cshtml" />
+      <File FileName="demonetcore/Views/Home/Privacy.cshtml" />
+      <File FileName="demonetcore/Models/Movie.cs" />
+      <File FileName="demonetcore/Models/ErrorViewModel.cs" />
+      <File FileName="demonetcore/Views/Movie/Index.cshtml" />
+      <File FileName="demonetcore/Migrations/20221124080710_InitialCreate.cs" />
+      <File FileName="demonetcore/Migrations/MovieDataContextModelSnapshot.cs" />
+      <File FileName="demonetcore/Data/MovieDataContext.cs" Line="17" Column="1" />
+      <File FileName="demonetcore/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demonetcore" expanded="True">
+            <Node name="demonetcore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Views" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
